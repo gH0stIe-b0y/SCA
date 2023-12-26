@@ -1,0 +1,7 @@
+Purpose:
+The purpose of this project is to engineer a computing system that is able to do the following:
+1. Communicate between two nodes
+2. Communicate in a "secure" manner
+3. Maintain the integrity of the data transefered. 
+
+This project will be wholistic in its scope and will analyze the operator, the environmeent, the hardware, the operating system, the software, and finally, the network that this computing system will operate in. 
